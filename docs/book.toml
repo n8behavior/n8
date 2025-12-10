@@ -1,0 +1,9 @@
+[book]
+title = "n8"
+description = "Intrinsic isolation for self-containerizing programs"
+authors = ["Mike Sandman"]
+language = "en"
+src = "src"
+
+[build]
+build-dir = "book"
